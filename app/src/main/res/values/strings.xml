@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlayingWithImageInCompose</string>
+    <string name="dog_content_description">dog image</string>
+</resources>
